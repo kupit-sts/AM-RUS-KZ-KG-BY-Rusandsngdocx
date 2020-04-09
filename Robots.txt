@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://kupit-sts.github.io/AM-RUS-KZ-KG-BY-Rusandsngdocx78/sitemap.xml
